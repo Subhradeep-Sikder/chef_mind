@@ -6,7 +6,7 @@ Chef Mind is a smart cooking companion that uses AI to generate personalized rec
 
 ---
 
-## ✨ Key Features
+## ✨ Key Feature
 
 - 🤖 AI Recipe Generation using Google Gemini
 - 🥫 Smart Pantry tracking with expiration alerts
