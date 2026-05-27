@@ -127,6 +127,8 @@ Automatically generated shopping list to help you organize your grocery shopping
 - 🎨 **Customizable Themes** - More color schemes
 - 📱 **Mobile App** - iOS/Android version
 
----
+##
+
+Built with ❤️
 
 
