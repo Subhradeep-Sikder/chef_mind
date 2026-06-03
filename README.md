@@ -12,15 +12,6 @@ Chef Mind is a smart culinary companion designed to reduce food waste and simpli
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Frontend:** ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-- **Backend:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-- **Database:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) 
-- **AI Integration:** ![Gemini AI](https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white)
-
----
-
 ## 📖 User Guide
 
 1. **Sign Up & Log In** 🔐 — Create an account to sync your kitchen profile.
@@ -28,6 +19,15 @@ Chef Mind is a smart culinary companion designed to reduce food waste and simpli
 3. **Generate Recipes** 🤖 — Select ingredients and dietary tags to get custom Gemini AI recipes.
 4. **Plan Your Week** 📅 — Save recipes and drag-and-drop them into your meal calendar.
 5. **Auto-Shop List** 🛒 — Instantly get a checklist for any missing ingredients.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+- **Backend:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+- **Database:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) 
+- **AI Integration:** ![Gemini AI](https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white)
 
 ---
 
