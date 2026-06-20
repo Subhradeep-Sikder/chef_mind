@@ -39,29 +39,33 @@ Chef Mind's features are designed with a focus on intuitive user experience and 
 
 ---
 
-## User Interface Showcase
+## UI Preview
 
 Below is the user flow and interface mapped out systematically:
 
 ### 1. Authentication Flow
-| Sign Up | Sign In |
-|:---:|:---:|
-| ![Sign Up](screenshot/sign-up.png) | ![Sign In](screenshot/sign-in.png) |
+- **Sign Up**
+  ![Sign Up](screenshot/sign-up.png)
+- **Sign In**
+  ![Sign In](screenshot/sign-in.png)
 
 ### 2. Main Dashboard & AI Generator
-| Dashboard Overview | AI Recipe Generator |
-|:---:|:---:|
-| ![Dashboard](screenshot/dashboard.png) | ![Recipe Generator](screenshot/recipe-generator.png) |
+- **Dashboard Overview**
+  ![Dashboard](screenshot/dashboard.png)
+- **AI Recipe Generator**
+  ![Recipe Generator](screenshot/recipe-generator.png)
 
 ### 3. Recipe Management & Pantry Tracking
-| My Saved Recipes | Pantry Management |
-|:---:|:---:|
-| ![My Recipes](screenshot/my-recipe.png) | ![Pantry](screenshot/pantry.png) |
+- **My Saved Recipes**
+  ![My Recipes](screenshot/my-recipe.png)
+- **Pantry Management**
+  ![Pantry](screenshot/pantry.png)
 
 ### 4. Planning & Smart Shopping
-| Weekly Meal Planner | Smart Shopping List |
-|:---:|:---:|
-| ![Meal Planner](screenshot/meal-planner.png) | ![Shopping List](screenshot/shopping-list.png) |
+- **Weekly Meal Planner**
+  ![Meal Planner](screenshot/meal-planner.png)
+- **Smart Shopping List**
+  ![Shopping List](screenshot/shopping-list.png)
 
 ---
 
@@ -130,4 +134,4 @@ Below is the user flow and interface mapped out systematically:
 
 ---
 
-Developed by [Subhradeep Sikder](https://github.com/Subhradeep-Sikder)
+Build by [Subhradeep Sikder](https://github.com/Subhradeep-Sikder)
