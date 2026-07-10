@@ -1,0 +1,14 @@
+# Keep image small by ignoring local dependencies, build artifacts, and env files
+node_modules
+backend/node_modules
+frontend/node_modules
+frontend/dist
+.git
+.gitignore
+.env
+backend/.env
+frontend/.env
+*.log
+deploy.md
+README.md
+screenshot/

@@ -41,3 +41,7 @@ build/
 out/
 coverage/
 .nyc_output
+
+# Deployment guide
+deploy.md
+
