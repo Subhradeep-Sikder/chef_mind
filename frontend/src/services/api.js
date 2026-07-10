@@ -34,6 +34,12 @@ api.interceptors.response.use(
             localStorage.removeItem('user');
             window.location.href = '/login';
         }
+        
+        // Handle connection/network errors cleanly
+        if (!error.response) {
+            error.message = 'Could not connect to the backend server. Please verify it is running on port 8000.';
+        }
+        
         return Promise.reject(error);
     }
 );
