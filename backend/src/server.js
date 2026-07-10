@@ -43,7 +43,7 @@ app.get("/api", (req, res) => {
 });
 
 // Wildcard route to serve index.html for client-side routing (React Router)
-app.get("/:splat*", (req, res) => {
+app.get("/{*splat}", (req, res) => {
   res.sendFile(path.join(publicPath, "index.html"), (err) => {
     if (err) {
       res.status(404).send("API is running, but frontend static files were not found. Make sure the frontend is built and copied to backend/public.");
