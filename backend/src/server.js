@@ -60,7 +60,7 @@ app.listen(PORT, () => {
     console.log(`Environment: ${process.env.NODE_ENV || 'development'}`);
     
     // Start keep-alive cron job
-    keepAliveJob.start();
+    //keepAliveJob.start();
     console.log("⏰ Keep-alive cron job started.");
 });
 
